@@ -19,13 +19,13 @@ public class StandAloneTC2 {
     	
     	/* ───────────────────────── GET DATA ───────────────────────── */
     	
-    	String fromStn = sh.
-    	String toStn
-    	String mail
-    	Stirng phoneNo
-    	String name
-    	String age
-    	
+//    	String fromStn = sh.
+//    	String toStn
+//    	String mail
+//    	Stirng phoneNo
+//    	String name
+//    	String age
+//    	
 
         /* ───────────────────────── DRIVER SET  UP ───────────────────────── */
         WebDriverManager.chromedriver().setup();

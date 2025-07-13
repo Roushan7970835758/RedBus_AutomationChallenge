@@ -61,5 +61,5 @@ public class readData {
 		System.out.println("fromStn: "+ FromStn+" to Stn: "+ ToStn);
 		
 	}
-	public 
+	
 }
